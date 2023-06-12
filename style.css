@@ -25,3 +25,14 @@ header{
     
     overflow-y: hidden;
 }
+
+.footer{
+    height: 50px;
+    background-color: rgb(9, 10, 10);
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
